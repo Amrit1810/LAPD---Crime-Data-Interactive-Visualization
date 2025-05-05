@@ -1,5 +1,7 @@
 # Interactive Data Visualization and Storytelling: Los Angeles Police Department (LAPD) Crimes
 
+**[Dashboard Link](https://public.tableau.com/app/profile/amritpalsingh1018/viz/FinalProjectGroup-7/TimeAnalysis)**
+
 This project focuses on analyzing crime data from the Los Angeles Police Department (LAPD) spanning from 2020 to the present. Using interactive data visualization techniques, we aim to uncover patterns, trends, and insights related to crime in Los Angeles to inform public safety strategies and promote police transparency.
 
 ---
