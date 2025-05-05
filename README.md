@@ -154,5 +154,3 @@ The project adopted a storytelling approach to make the data insights meaningful
 *   **(Other tools/libraries used for cleaning, processing, etc.)**
 
 ---
-
-## Project Structure (Example - Please Adapt)
